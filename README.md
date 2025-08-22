@@ -78,6 +78,7 @@ MOV A,D
 STA 0024H
 
 HLT
+```
 ## Output:
 <img width="679" height="348" alt="image" src="https://github.com/user-attachments/assets/7260de84-425f-459d-9dd2-2c8efc7e90ba" />
 <img width="663" height="311" alt="image" src="https://github.com/user-attachments/assets/c86bc409-b143-4527-82cb-a556c2b2dad9" />
