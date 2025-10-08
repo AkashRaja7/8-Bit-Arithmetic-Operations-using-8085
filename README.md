@@ -1,7 +1,7 @@
 # 8-Bit-Arithmetic-Operations-using-8085
 ## Aim:
 To perform 8-bit arithmetic operations such as addition, subtraction, multiplication, and division using the 8085 microprocessor.
-Apparatus Required:
+# Apparatus Required:
 •	Laptop with internet connection
 ## Algorithm:
 ## For Addition (With Carry Consideration):
